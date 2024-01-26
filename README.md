@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Doing internships and gathering experiences
 - 🌱 I’m currently learning ... Web Development and Python
 - 💞️ I’m looking to collaborate on ... Competetive Coding and Web Development
-- 📫 How to reach me ... instagram id : sh_oytan
+- 📫 How to reach me ... text me baka
 
 <!---
 V3nomV1per/V3nomV1per is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
